@@ -339,10 +339,13 @@ div h1{
     cursor: pointer;
 }
 
-.chevron-bottom div i {
+.chevron-bottom i{
     display: none;
   }
 
+.chevron-bottom div{
+    display: none;
+  }
 @media (max-width: 768px) {
 
     .image-soon img{
