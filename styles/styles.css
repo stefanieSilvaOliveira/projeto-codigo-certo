@@ -315,6 +315,10 @@ div h1{
     margin-left: 50px; 
 }
 
+.chevron-bottom{
+    display: none;
+}
+
 .text-container-right{
     display: flex;
     flex-direction: column;
