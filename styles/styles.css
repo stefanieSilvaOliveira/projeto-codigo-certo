@@ -315,10 +315,6 @@ div h1{
     margin-left: 50px; 
 }
 
-.chevron-bottom {
-  display: none;
-}
-
 .text-container-right{
     display: flex;
     flex-direction: column;
@@ -342,6 +338,10 @@ div h1{
     color:#000000;
     cursor: pointer;
 }
+
+.chevron-bottom div i {
+    display: none;
+  }
 
 @media (max-width: 768px) {
 
