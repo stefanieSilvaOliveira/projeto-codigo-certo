@@ -315,8 +315,8 @@ div h1{
     margin-left: 50px; 
 }
 
-.chevron-bottom i{
-    display: none;
+.chevron-bottom {
+  display: none;
 }
 
 .text-container-right{
